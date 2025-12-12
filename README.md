@@ -149,7 +149,39 @@ This project is submitted as coursework for academic evaluation.
 
 ## References
 
-- Mnih, V., et al. (2015). Human-level control through deep reinforcement learning. *Nature*.
-- Van Hasselt, H., Guez, A., & Silver, D. (2016). Deep Reinforcement Learning with Double Q-learning. *AAAI*.
-- Schaul, T., et al. (2015). Prioritized Experience Replay. *ICLR*.
+- ABELSON, H., SUSSMAN, G.J. and SUSSMAN, J., 1996. *Structure and interpretation of classical mechanics*. Cambridge, MA: MIT Press.
+
+- BELLMAN, R., 1957. *Dynamic programming*. Princeton, NJ: Princeton University Press.
+
+- BROCKMAN, G. et al., 2016. OpenAI Gym. arXiv preprint [online]. Available from: [https://arxiv.org/abs/1606.01540](https://arxiv.org/abs/1606.01540?-utm_source=chatgpt.com) [Accessed 6 December 2025].
+
+- FUJIMOTO, S., VAN HOOF, H. and MEGER, D., 2018. Addressing function approximation error in actor–critic methods. In: *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*. Stockholm: PMLR, pp. 1587–1596.
+
+- GAUDET, B., CROSSLEY, W. and GUSTAFSON, D., 2021. Autonomous precision landing using reinforcement learning. *Journal of Guidance, Control, and Dynamics*, 44(3), pp. 523–537.
+
+- HESSEL, M. et al., 2018. Rainbow: combining improvements in deep reinforcement learning. In: *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-18)*. New Orleans, LA: AAAI Press, pp. 3215–3222.
+
+- KAELBLING, L.P., LITTMAN, M.L. and MOORE, A.W., 1996. Reinforcement learning: a survey. *Journal of Artificial Intelligence Research*, 4, pp. 237–285.
+
+- KOBER, J., BAGNELL, J.A. and PETERS, J., 2013. Reinforcement learning in robotics: a survey. *The International Journal of Robotics Research*, 32(11), pp. 1238–1274.
+
+- KOCH, W., MANCUSO, R. and WEST, R., 2019. Reinforcement learning for spacecraft landing control. In: *AIAA Scitech 2019 Forum*. Reston, VA: American Institute of Aeronautics and Astronautics. Available from: https://doi.org/10.2514/6.2019-0478.
+
+- MNIH, V. et al., 2013. Playing Atari with deep reinforcement learning. arXiv preprint [online]. Available from: [https://arxiv.org/abs/1312.5602](https://arxiv.org/abs/1312.5602?utm_source=chatgpt.com) [Accessed 6 December 2025].
+
+- MNIH, V. et al., 2015. Human-level control through deep reinforcement learning. *Nature*, 518(7540), pp. 529–533.
+
+- SCHAUL, T. et al., 2016. Prioritized experience replay. In: *Proceedings of the International Conference on Learning Representations (ICLR 2016)*. San Juan, Puerto Rico.
+
+- SUTTON, R.S. and BARTO, A.G., 2018. *Reinforcement learning: an introduction*. 2nd ed. Cambridge, MA: MIT Press.
+
+- TOWERS, M. et al., 2023. Gymnasium: a standard API for reinforcement learning environments. *Journal of Machine Learning Research*, 24(229), pp. 1–8.
+
+- VAN HASSELT, H., 2010. Double Q-learning. In: *Advances in Neural Information Processing Systems 23 (NeurIPS 2010)*. Vancouver, Canada, pp. 2613–2621.
+
+- VAN HASSELT, H., GUEZ, A. and SILVER, D., 2016. Deep reinforcement learning with double Q-learning. In: *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-30)*. Phoenix, AZ: AAAI Press, pp. 2094–2100.
+
+- WANG, Z. et al., 2016. Dueling network architectures for deep reinforcement learning. In: *Proceedings of the 33rd International Conference on Machine Learning (ICML 2016)*. New York, NY: PMLR, pp. 1995–2003.
+
+- WILLIAMS, R.J., 1992. Simple statistical gradient-following algorithms for connectionist reinforcement learning. *Machine Learning*, 8, pp. 229–256.
 
