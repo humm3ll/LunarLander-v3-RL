@@ -4,6 +4,8 @@
 
 This project implements and compares three value-based deep reinforcement learning algorithms for the LunarLander-v3 environment from OpenAI Gymnasium. The implementation is part of coursework for Foundations of Robotics & AI (CIS2719 Coursework 2).
 
+**The grade achieved for this project was 90/100.**
+
 **Author:** Ethan Hulme
 
 ## Algorithms Implemented
